@@ -6,6 +6,7 @@
 
 ### I’m currently a Java Development Student
 ______________________________________________________________________________________________
+
 📌 I have a bachelor's degree in Information Systems, and a majoring in Systems Development.<br />
 
 📚 Things I want to learn or get a better understanding:<br />
@@ -21,7 +22,7 @@ ________________________________________________________________________________
    :white_check_mark: CSS<br />
  
  
-📊 Github Stats
+### 📊 Github Stats
 ______________________________________________________________________________________________
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva)](https://github.com/amanda-dasilva/github-readme-stats)
 <!--
