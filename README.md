@@ -9,16 +9,16 @@ ________________________________________________________________________________
 📌 I have a bachelor's degree in Information Systems, and a majoring in Systems Development.<br />
 
 📚 Things I want to learn or get a better understanding:<br />
-:pencil2: Java<br />
-:pencil2: Spring<br />
-:pencil2: MongoDB<br />
+   :heavy_plus_sign: Java<br />
+   :heavy_plus_sign: Spring<br />
+   :heavy_plus_sign: MongoDB<br />
  
  🎉 I have intermediate proficiency in:<br />
-:white_check_mark: C#<br />
-:white_check_mark: SQL<br />
-:white_check_mark: Javascript<br />
-:white_check_mark: HTML<br />
-:white_check_mark: CSS<br />
+   :white_check_mark: C#<br />
+   :white_check_mark: SQL<br />
+   :white_check_mark: Javascript<br />
+   :white_check_mark: HTML<br />
+   :white_check_mark: CSS<br />
  
  
 📊 Github Stats
