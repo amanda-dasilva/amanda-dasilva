@@ -24,6 +24,19 @@ ________________________________________________________________________________
 ### 📊 My Github Stats
 ______________________________________________________________________________________________
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva)](https://github.com/amanda-dasilva/github-readme-stats)
+
+
+### 📊 My WakaTime Coding Activity
+______________________________________________________________________________________________
+<img
+  src="https://github.com/amanda-dasilva/amanda-dasilva/blob/main/images/stat.svg"
+  alt="Amanda WakaTime Activity"
+/>
+
+
+
+
+
 <!--
 **amanda-dasilva/amanda-dasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
