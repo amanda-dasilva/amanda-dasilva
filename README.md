@@ -29,7 +29,7 @@ ________________________________________________________________________________
 ### 📊 My WakaTime Coding Activity
 ______________________________________________________________________________________________
 <img
-  src="https://github.com/amanda-dasilva/avinal/blob/main/images/stat.svg"
+  src="https://github.com/amanda-dasilva/amanda-dasilva/blob/main/images/stat.svg"
   alt="Amanda WakaTime Activity"
 />
 
