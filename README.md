@@ -21,7 +21,7 @@ ________________________________________________________________________________
    :white_check_mark: CSS<br />
  
  
-### 📊 Github Stats
+### 📊 My Github Stats
 ______________________________________________________________________________________________
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva)](https://github.com/amanda-dasilva/github-readme-stats)
 <!--
