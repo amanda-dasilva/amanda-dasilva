@@ -1,6 +1,5 @@
 ### Hi there 👋, I’m Amanda
-- 🌱 I’m currently learning Java
-- 🤔 I’m looking for help with Java Projects
+- 👯 I’m looking to collaborate on Java Projects
 - 📫 How to reach me: dinsil221@gmail.com
 - 😄 Pronouns: she/her
 
