@@ -28,10 +28,7 @@ ________________________________________________________________________________
 
 ### 📊 My WakaTime Coding Activity
 ______________________________________________________________________________________________
-<img
-  src="https://github.com/amanda-dasilva/amanda-dasilva/blob/main/images/stat.svg"
-  alt="Amanda WakaTime Activity"
-/>
+<img src="https://github.com/amanda-dasilva/amanda-dasilva/blob/master/images/codeStats.svg" alt="My Coding Activity"/>
 
 
 
