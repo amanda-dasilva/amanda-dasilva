@@ -28,10 +28,8 @@ ________________________________________________________________________________
 
 ### 📊 My WakaTime Coding Activity
 ______________________________________________________________________________________________
-<img
-  src="https://github.com/amanda-dasilva/avinal/tree/main/images/stat.svg"     
-  alt="Amanda WakaTime Activity"
-/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
