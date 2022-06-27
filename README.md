@@ -3,7 +3,8 @@
 - 📫 How to reach me: dinsil221@gmail.com
 - 😄 Pronouns: she/her
 
-![](https://bit.ly/3bBqVAV)
+[<img src="https://raw.githubusercontent.com/amanda-dasilva/amanda-dasilva/main/profile-views.svg" height="50"/>](https://github.com/amanda-dasilva)
+
 ### I’m currently a Java Development Student
 ______________________________________________________________________________________________
 
