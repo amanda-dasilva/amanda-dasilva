@@ -3,6 +3,7 @@
 - 📫 How to reach me: dinsil221@gmail.com
 - 😄 Pronouns: she/her
 
+![](https://bit.ly/3bBqVAV)
 ### I’m currently a Java Development Student
 ______________________________________________________________________________________________
 
