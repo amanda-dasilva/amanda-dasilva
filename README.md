@@ -1,4 +1,5 @@
 ### Hi there 👋, I’m Amanda
+______________________________________________________________________________________________
 ![](https://komarev.com/ghpvc/?username=amanda-dasilva)
 
 - 👯 I’m looking to collaborate on Java Projects
