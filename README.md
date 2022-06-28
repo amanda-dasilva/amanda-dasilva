@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 📫 How to reach me: dinsil221@gmail.com
 - 😄 Pronouns: she/her
 
-<a href="https://app.daily.dev/amandasilva"><img align="right" src="https://api.daily.dev/devcards/1570c08eeb544cb499dd79d3e26fd8c9.png?r=nd2" width="200" alt="Amanda Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/amandasilva"><img align="right" src="https://api.daily.dev/devcards/1570c08eeb544cb499dd79d3e26fd8c9.png?r=nd2" width="250" alt="Amanda Silva's Dev Card"/></a>
 
 
 
@@ -33,7 +33,7 @@ ________________________________________________________________________________
  
 ### 📊 My Github Stats
 ______________________________________________________________________________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=merko)](https://github.com/amanda-dasilva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark)](https://github.com/amanda-dasilva/github-readme-stats)
 
 
 ### 📊 My WakaTime Coding Activity
