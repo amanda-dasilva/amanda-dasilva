@@ -26,7 +26,7 @@ ________________________________________________________________________________
  
 ### 📊 My Github Stats
 ______________________________________________________________________________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=onedark)](https://github.com/amanda-dasilva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark)](https://github.com/amanda-dasilva/github-readme-stats)
 
 
 ### 📊 My WakaTime Coding Activity
