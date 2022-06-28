@@ -1,9 +1,10 @@
 ### Hi there 👋, I’m Amanda
+![](https://komarev.com/ghpvc/?username=amanda-dasilva)
+
 - 👯 I’m looking to collaborate on Java Projects
 - 📫 How to reach me: dinsil221@gmail.com
 - 😄 Pronouns: she/her
 
-[<img src="https://raw.githubusercontent.com/amanda-dasilva/amanda-dasilva/main/profile-views.svg" height="50"/>](https://github.com/amanda-dasilva)
 
 ### I’m currently a Java Development Student
 ______________________________________________________________________________________________
