@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 
 
-### I’m currently a Java Development Student
+### I’m a Java Developer
 ______________________________________________________________________________________________
 
 📌 I have a bachelor's degree in Information Systems, and a majoring in Systems Development.<br />
