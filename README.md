@@ -21,6 +21,7 @@ ________________________________________________________________________________
 📚 Things I want to learn or get a better understanding:<br />
    :heavy_plus_sign: Java<br />
    :heavy_plus_sign: Spring<br />
+   :heavy_plus_sign: PostgreSQL<br />
    :heavy_plus_sign: MongoDB<br />
  
  🎉 I have intermediate proficiency in:<br />
