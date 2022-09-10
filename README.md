@@ -19,12 +19,17 @@ ________________________________________________________________________________
 📌 I have a bachelor's degree in Information Systems, and a majoring in Systems Development.<br />
 
 📚 Things I want to learn or get a better understanding:<br />
-   :heavy_plus_sign: Java<br />
-   :heavy_plus_sign: Spring<br />
+   :heavy_plus_sign: Arduino<br />
+   :heavy_plus_sign: Raspberry Pi<br />
+   :heavy_plus_sign: C<br />
+   :heavy_plus_sign: C++<br />
+   :heavy_plus_sign: Python<br />
    :heavy_plus_sign: PostgreSQL<br />
    :heavy_plus_sign: MongoDB<br />
  
  🎉 I have intermediate proficiency in:<br />
+   :white_check_mark: Java<br />
+   :white_check_mark: Spring Boot<br />
    :white_check_mark: C#<br />
    :white_check_mark: SQL<br />
    :white_check_mark: Javascript<br />
