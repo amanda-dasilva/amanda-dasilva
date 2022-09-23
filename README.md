@@ -47,7 +47,10 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 September 2022 - To: 22 September 2022
+
+Java   35 mins         ████████████████████████▓   98.11 %
+XML    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
