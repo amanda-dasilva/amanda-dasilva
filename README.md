@@ -47,9 +47,11 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 19 April 2023
+From: 13 April 2023 - To: 20 April 2023
 
-No activity tracked
+Java             1 hr 37 mins    ██████████████████████▒░░   89.72 %
+XML              11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
