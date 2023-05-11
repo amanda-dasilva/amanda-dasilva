@@ -16,15 +16,12 @@ ________________________________________________________________________________
 ### I’m a Java Developer
 ______________________________________________________________________________________________
 
-📌 I have a bachelor's degree in Information Systems, and a majoring in Systems Development.<br />
-
 📚 Things I want to learn or get a better understanding:<br />
    :heavy_plus_sign: Arduino<br />
    :heavy_plus_sign: Raspberry Pi<br />
    :heavy_plus_sign: C<br />
    :heavy_plus_sign: C++<br />
    :heavy_plus_sign: Python<br />
-   :heavy_plus_sign: PostgreSQL<br />
    :heavy_plus_sign: MongoDB<br />
  
  🎉 I have intermediate proficiency in:<br />
