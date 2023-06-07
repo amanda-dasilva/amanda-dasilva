@@ -6,7 +6,7 @@ ________________________________________________________________________________
 - 📫 How to reach me: dinsil221@gmail.com
 - 😄 Pronouns: she/her
 
-<a href="https://app.daily.dev/amandasilva"><img align="right" src="https://api.daily.dev/devcards/1570c08eeb544cb499dd79d3e26fd8c9.png?r=nd2" width="250" alt="Amanda Silva's Dev Card"/></a>
+<a href="https://app.daily.dev/amandasilva"><img align="right" src="https://api.daily.dev/devcards/1570c08eeb544cb499dd79d3e26fd8c9.png?r=5y7" width="250" alt="Amanda Silva's Dev Card"/></a>
 
 
 
