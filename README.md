@@ -17,15 +17,15 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________
 
 📚 Things I want to learn or get a better understanding:<br />
-   :heavy_plus_sign: Angular<br />
-   :heavy_plus_sign: React<br />
+   :heavy_plus_sign: Raspberry Pi<br />
+   :heavy_plus_sign: Arduino<br />
    :heavy_plus_sign: MongoDB<br />
  
- 🎉 I have intermediate proficiency in:<br />
+ 🎉 I have proficiency in:<br />
    :white_check_mark: Java<br />
    :white_check_mark: Spring Boot<br />
    :white_check_mark: SQL<br />
-   :white_check_mark: Javascript<br />
+   :white_check_mark: Javascript (Angular, React, Node.js)<br />
    :white_check_mark: HTML<br />
    :white_check_mark: CSS<br />
  
