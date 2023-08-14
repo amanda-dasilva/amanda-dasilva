@@ -40,7 +40,7 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2023 - To: 12 August 2023
+From: 06 August 2023 - To: 13 August 2023
 
 No activity tracked
 ```
