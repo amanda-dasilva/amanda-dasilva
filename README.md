@@ -40,9 +40,13 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-No activity tracked
+Java             41 mins         ███████████████░░░░░░░░░░   59.72 %
+XML              25 mins         █████████░░░░░░░░░░░░░░░░   36.43 %
+Markdown         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
