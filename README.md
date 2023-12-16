@@ -40,11 +40,9 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2023 - To: 14 December 2023
+From: 08 December 2023 - To: 15 December 2023
 
-Java     4 mins          ████████████████▓░░░░░░░░   66.02 %
-Vue.js   2 mins          ████████▒░░░░░░░░░░░░░░░░   33.43 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
