@@ -33,8 +33,8 @@ ________________________________________________________________________________
 ### 📊 My Github Stats
 ______________________________________________________________________________________________
 <p align="center">
-<img width="200em" height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark" align = "center"/>
-<img width="200em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dasilva&layout=compact&theme=dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dasilva&layout=compact&theme=dark" align = "center"/>
 </p>
 
 
