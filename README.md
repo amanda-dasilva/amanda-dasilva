@@ -32,7 +32,14 @@ ________________________________________________________________________________
  
 ### 📊 My Github Stats
 ______________________________________________________________________________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark)](https://github.com/amanda-dasilva/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dasilva&layout=compact)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dasilva&layout=compact&theme=dark" align = "center"/>
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark)](https://github.com/amanda-dasilva/github-readme-stats) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dasilva&layout=compact&theme=dark)
 
 
 ### 📊 My WakaTime Coding Activity
