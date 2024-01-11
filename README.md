@@ -25,14 +25,14 @@ ________________________________________________________________________________
    :white_check_mark: Java<br />
    :white_check_mark: Spring Boot<br />
    :white_check_mark: SQL<br />
-   :white_check_mark: Javascript (Angular, React, Node.js)<br />
+   :white_check_mark: Javascript (Angular, React, NodeJS)<br />
    :white_check_mark: HTML<br />
    :white_check_mark: CSS<br />
  
  
 ### 📊 My Github Stats
 ______________________________________________________________________________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark)](https://github.com/amanda-dasilva/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanda-dasilva&show_icons=true&theme=dark)](https://github.com/amanda-dasilva/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-dasilva&layout=compact)
 
 
 ### 📊 My WakaTime Coding Activity
