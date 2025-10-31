@@ -43,11 +43,9 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 29 October 2025
+From: 23 October 2025 - To: 30 October 2025
 
-Other    1 min           █████████████░░░░░░░░░░░░   51.92 %
-Python   0 secs          ███████░░░░░░░░░░░░░░░░░░   27.86 %
-Java     0 secs          █████░░░░░░░░░░░░░░░░░░░░   20.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
