@@ -43,11 +43,9 @@ ________________________________________________________________________________
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 November 2025 - To: 20 November 2025
+From: 14 November 2025 - To: 21 November 2025
 
-Markdown   15 mins         ███████████████████████▒░   93.20 %
-YAML       1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Python     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
